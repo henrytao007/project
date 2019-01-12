@@ -1,2 +1,1 @@
-# project
-my project : test and dev
+# 此项目主要用于学习和测试
